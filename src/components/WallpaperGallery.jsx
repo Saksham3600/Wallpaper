@@ -393,5 +393,6 @@ const WallpaperGallery = () => {
     </div>
   );
 };
+handleWebpackExternalForEdgeRuntime;
 
 export default WallpaperGallery;
